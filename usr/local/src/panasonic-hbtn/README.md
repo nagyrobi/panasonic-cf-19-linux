@@ -5,10 +5,8 @@ See in usr/local/bin scripts to use with these.
 
 ## Usage
 ```bash
-cd /usr/local/src/
-git clone https://github.com/x-magic/panasonic-hbtn.git
+cd /usr/local/src/panasonic-hbtn/
 
-cd panasonic-hbtn
 make all
 make install
 
