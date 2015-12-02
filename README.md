@@ -7,3 +7,5 @@ For Ubuntu 15.10 on Panasonic Toughbook CF-19, improve the following functionali
 - on-screen keyboard toggle script (for onboard app)
 
 Descriptions in appropriate directories and files.
+
+Tested and working on a Panasonic Toughbook CF-19 MK2.
