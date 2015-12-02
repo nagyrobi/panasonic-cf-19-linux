@@ -20,4 +20,4 @@ Finally,
 update-initramfs -u
 ```
 
-Tested with CF-19C MK2 with Ubuntu 15.10 i386 desktop.
+Tested with CF-19C MK2 with Ubuntu 15.10 x64.
